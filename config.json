@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuerify",
+        "uuid": 21861180,
+        "checksum": "41wb1l"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
